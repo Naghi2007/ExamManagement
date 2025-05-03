@@ -1,12 +1,164 @@
 {
   "Version": 1,
-  "WorkspaceRootPath": "C:\\Users\\Naghi Taghizada\\source\\repos\\ExamManagement\\",
-  "Documents": [],
+  "WorkspaceRootPath": "D:\\PROJECTS\\ExamManagement\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{DB496D23-BCC4-4C39-8483-C740E9573CAF}|Exam.Domain\\Exam.Domain.csproj|d:\\projects\\exammanagement\\exam.domain\\entites\\studentexam.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{DB496D23-BCC4-4C39-8483-C740E9573CAF}|Exam.Domain\\Exam.Domain.csproj|solutionrelative:exam.domain\\entites\\studentexam.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DB496D23-BCC4-4C39-8483-C740E9573CAF}|Exam.Domain\\Exam.Domain.csproj|d:\\projects\\exammanagement\\exam.domain\\entites\\studentanswer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{DB496D23-BCC4-4C39-8483-C740E9573CAF}|Exam.Domain\\Exam.Domain.csproj|solutionrelative:exam.domain\\entites\\studentanswer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DB496D23-BCC4-4C39-8483-C740E9573CAF}|Exam.Domain\\Exam.Domain.csproj|d:\\projects\\exammanagement\\exam.domain\\entites\\student.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{DB496D23-BCC4-4C39-8483-C740E9573CAF}|Exam.Domain\\Exam.Domain.csproj|solutionrelative:exam.domain\\entites\\student.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DB496D23-BCC4-4C39-8483-C740E9573CAF}|Exam.Domain\\Exam.Domain.csproj|d:\\projects\\exammanagement\\exam.domain\\entites\\questionexam.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{DB496D23-BCC4-4C39-8483-C740E9573CAF}|Exam.Domain\\Exam.Domain.csproj|solutionrelative:exam.domain\\entites\\questionexam.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DB496D23-BCC4-4C39-8483-C740E9573CAF}|Exam.Domain\\Exam.Domain.csproj|d:\\projects\\exammanagement\\exam.domain\\entites\\exam.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{DB496D23-BCC4-4C39-8483-C740E9573CAF}|Exam.Domain\\Exam.Domain.csproj|solutionrelative:exam.domain\\entites\\exam.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DB496D23-BCC4-4C39-8483-C740E9573CAF}|Exam.Domain\\Exam.Domain.csproj|d:\\projects\\exammanagement\\exam.domain\\entites\\question.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{DB496D23-BCC4-4C39-8483-C740E9573CAF}|Exam.Domain\\Exam.Domain.csproj|solutionrelative:exam.domain\\entites\\question.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DB496D23-BCC4-4C39-8483-C740E9573CAF}|Exam.Domain\\Exam.Domain.csproj|d:\\projects\\exammanagement\\exam.domain\\entites\\entity.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{DB496D23-BCC4-4C39-8483-C740E9573CAF}|Exam.Domain\\Exam.Domain.csproj|solutionrelative:exam.domain\\entites\\entity.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DB496D23-BCC4-4C39-8483-C740E9573CAF}|Exam.Domain\\Exam.Domain.csproj|d:\\projects\\exammanagement\\exam.domain\\entites\\teacher.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{DB496D23-BCC4-4C39-8483-C740E9573CAF}|Exam.Domain\\Exam.Domain.csproj|solutionrelative:exam.domain\\entites\\teacher.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
   "DocumentGroupContainers": [
     {
       "Orientation": 0,
       "VerticalTabListWidth": 256,
-      "DocumentGroups": []
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 1,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "Question.cs",
+              "DocumentMoniker": "D:\\PROJECTS\\ExamManagement\\Exam.Domain\\Entites\\Question.cs",
+              "RelativeDocumentMoniker": "Exam.Domain\\Entites\\Question.cs",
+              "ToolTip": "D:\\PROJECTS\\ExamManagement\\Exam.Domain\\Entites\\Question.cs",
+              "RelativeToolTip": "Exam.Domain\\Entites\\Question.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAYAAAA0AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-03T08:41:59.433Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "StudentExam.cs",
+              "DocumentMoniker": "D:\\PROJECTS\\ExamManagement\\Exam.Domain\\Entites\\StudentExam.cs",
+              "RelativeDocumentMoniker": "Exam.Domain\\Entites\\StudentExam.cs",
+              "ToolTip": "D:\\PROJECTS\\ExamManagement\\Exam.Domain\\Entites\\StudentExam.cs",
+              "RelativeToolTip": "Exam.Domain\\Entites\\StudentExam.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAABTAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-03T08:38:55.875Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "Teacher.cs",
+              "DocumentMoniker": "D:\\PROJECTS\\ExamManagement\\Exam.Domain\\Entites\\Teacher.cs",
+              "RelativeDocumentMoniker": "Exam.Domain\\Entites\\Teacher.cs",
+              "ToolTip": "D:\\PROJECTS\\ExamManagement\\Exam.Domain\\Entites\\Teacher.cs",
+              "RelativeToolTip": "Exam.Domain\\Entites\\Teacher.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAcAAAAEAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-03T08:40:18.925Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "StudentAnswer.cs",
+              "DocumentMoniker": "D:\\PROJECTS\\ExamManagement\\Exam.Domain\\Entites\\StudentAnswer.cs",
+              "RelativeDocumentMoniker": "Exam.Domain\\Entites\\StudentAnswer.cs",
+              "ToolTip": "D:\\PROJECTS\\ExamManagement\\Exam.Domain\\Entites\\StudentAnswer.cs",
+              "RelativeToolTip": "Exam.Domain\\Entites\\StudentAnswer.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-03T08:39:03.449Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Student.cs",
+              "DocumentMoniker": "D:\\PROJECTS\\ExamManagement\\Exam.Domain\\Entites\\Student.cs",
+              "RelativeDocumentMoniker": "Exam.Domain\\Entites\\Student.cs",
+              "ToolTip": "D:\\PROJECTS\\ExamManagement\\Exam.Domain\\Entites\\Student.cs",
+              "RelativeToolTip": "Exam.Domain\\Entites\\Student.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-03T08:38:49.543Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Exam.cs",
+              "DocumentMoniker": "D:\\PROJECTS\\ExamManagement\\Exam.Domain\\Entites\\Exam.cs",
+              "RelativeDocumentMoniker": "Exam.Domain\\Entites\\Exam.cs",
+              "ToolTip": "D:\\PROJECTS\\ExamManagement\\Exam.Domain\\Entites\\Exam.cs",
+              "RelativeToolTip": "Exam.Domain\\Entites\\Exam.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAcAAAAnAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-03T08:38:27.338Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "QuestionExam.cs",
+              "DocumentMoniker": "D:\\PROJECTS\\ExamManagement\\Exam.Domain\\Entites\\QuestionExam.cs",
+              "RelativeDocumentMoniker": "Exam.Domain\\Entites\\QuestionExam.cs",
+              "ToolTip": "D:\\PROJECTS\\ExamManagement\\Exam.Domain\\Entites\\QuestionExam.cs",
+              "RelativeToolTip": "Exam.Domain\\Entites\\QuestionExam.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAYAAAAjAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-03T08:37:45.766Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{3ae79031-e1bc-11d0-8f78-00a0c9110057}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{1c4feeaa-4718-4aa9-859d-94ce25d182ba}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "Entity.cs",
+              "DocumentMoniker": "D:\\PROJECTS\\ExamManagement\\Exam.Domain\\Entites\\Entity.cs",
+              "RelativeDocumentMoniker": "Exam.Domain\\Entites\\Entity.cs",
+              "ToolTip": "D:\\PROJECTS\\ExamManagement\\Exam.Domain\\Entites\\Entity.cs",
+              "RelativeToolTip": "Exam.Domain\\Entites\\Entity.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAUAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-03T08:37:02.061Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
     }
   ]
 }

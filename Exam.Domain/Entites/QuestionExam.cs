@@ -1,12 +1,9 @@
-﻿using System;
-using System.Collections.Generic;
-using System.Linq;
-using System.Text;
-using System.Threading.Tasks;
+﻿namespace Exam.Domain.Entites;
 
-namespace Exam.Domain.Entites
+public class QuestionExam:Entity
 {
-    internal class QuestionExam
-    {
-    }
+    public int QuestionId { get; set; }
+    public Question Question { get; set; } = null!;
+    public int ExamId { get; set; }
+    public Exam Exam { get; set; }=null!;
 }

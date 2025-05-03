@@ -2,7 +2,9 @@
 
 public class StudentAnswer : Entity
 { 
-    public Question? Question { get; set; }
+    public int StudentExamId { get; set; }
+    public StudentExam? StudentExam { get; set; }
     public string? Answer { get; set; }
+
 
 }
