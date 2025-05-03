@@ -1,8 +1,7 @@
 ﻿namespace Exam.Domain.Entites;
 
-public class Exam : Entity
+public class Examm : Entity
 {
-   
     public int TeacherId { get; set; }
     public Teacher? Teacher { get; set; }
     public DateTime Date {  get; set; }
