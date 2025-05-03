@@ -1,7 +1,16 @@
 {
   "Version": 1,
   "WorkspaceRootPath": "D:\\PROJECTS\\ExamManagement\\",
-  "Documents": [],
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{85F7E370-E994-4DA5-8295-2D83CA53C66B}|Exam.Application\\Exam.Application.csproj|d:\\projects\\exammanagement\\exam.application\\fluentvalidation\\studentvalidation.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{85F7E370-E994-4DA5-8295-2D83CA53C66B}|Exam.Application\\Exam.Application.csproj|solutionrelative:exam.application\\fluentvalidation\\studentvalidation.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{85F7E370-E994-4DA5-8295-2D83CA53C66B}|Exam.Application\\Exam.Application.csproj|d:\\projects\\exammanagement\\exam.application\\fluentvalidation\\examvalidation.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{85F7E370-E994-4DA5-8295-2D83CA53C66B}|Exam.Application\\Exam.Application.csproj|solutionrelative:exam.application\\fluentvalidation\\examvalidation.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
   "DocumentGroupContainers": [
     {
       "Orientation": 0,
@@ -9,7 +18,7 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": -1,
+          "SelectedChildIndex": 2,
           "Children": [
             {
               "$type": "Bookmark",
@@ -18,6 +27,32 @@
             {
               "$type": "Bookmark",
               "Name": "ST:0:0:{1c4feeaa-4718-4aa9-859d-94ce25d182ba}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "StudentValidation.cs",
+              "DocumentMoniker": "D:\\PROJECTS\\ExamManagement\\Exam.Application\\FluentValidation\\StudentValidation.cs",
+              "RelativeDocumentMoniker": "Exam.Application\\FluentValidation\\StudentValidation.cs",
+              "ToolTip": "D:\\PROJECTS\\ExamManagement\\Exam.Application\\FluentValidation\\StudentValidation.cs",
+              "RelativeToolTip": "Exam.Application\\FluentValidation\\StudentValidation.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAcAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-03T18:04:59.785Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "ExamValidation.cs",
+              "DocumentMoniker": "D:\\PROJECTS\\ExamManagement\\Exam.Application\\FluentValidation\\ExamValidation.cs",
+              "RelativeDocumentMoniker": "Exam.Application\\FluentValidation\\ExamValidation.cs",
+              "ToolTip": "D:\\PROJECTS\\ExamManagement\\Exam.Application\\FluentValidation\\ExamValidation.cs",
+              "RelativeToolTip": "Exam.Application\\FluentValidation\\ExamValidation.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAYAAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-03T18:04:11.902Z",
+              "EditorCaption": ""
             }
           ]
         }
