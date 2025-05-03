@@ -3,44 +3,140 @@
   "WorkspaceRootPath": "D:\\PROJECTS\\ExamManagement\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{85F7E370-E994-4DA5-8295-2D83CA53C66B}|Exam.Application\\Exam.Application.csproj|d:\\projects\\exammanagement\\exam.application\\automapping\\mappingprofile.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{85F7E370-E994-4DA5-8295-2D83CA53C66B}|Exam.Application\\Exam.Application.csproj|solutionrelative:exam.application\\automapping\\mappingprofile.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{85F7E370-E994-4DA5-8295-2D83CA53C66B}|Exam.Application\\Exam.Application.csproj|d:\\projects\\exammanagement\\exam.application\\services\\teachermanager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{85F7E370-E994-4DA5-8295-2D83CA53C66B}|Exam.Application\\Exam.Application.csproj|solutionrelative:exam.application\\services\\teachermanager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{85F7E370-E994-4DA5-8295-2D83CA53C66B}|Exam.Application\\Exam.Application.csproj|d:\\projects\\exammanagement\\exam.application\\interfaces\\iexamservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{85F7E370-E994-4DA5-8295-2D83CA53C66B}|Exam.Application\\Exam.Application.csproj|solutionrelative:exam.application\\interfaces\\iexamservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{85F7E370-E994-4DA5-8295-2D83CA53C66B}|Exam.Application\\Exam.Application.csproj|d:\\projects\\exammanagement\\exam.application\\interfaces\\iteacherservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{85F7E370-E994-4DA5-8295-2D83CA53C66B}|Exam.Application\\Exam.Application.csproj|solutionrelative:exam.application\\interfaces\\iteacherservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{85F7E370-E994-4DA5-8295-2D83CA53C66B}|Exam.Application\\Exam.Application.csproj|d:\\projects\\exammanagement\\exam.application\\interfaces\\istudentservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{85F7E370-E994-4DA5-8295-2D83CA53C66B}|Exam.Application\\Exam.Application.csproj|solutionrelative:exam.application\\interfaces\\istudentservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{85F7E370-E994-4DA5-8295-2D83CA53C66B}|Exam.Application\\Exam.Application.csproj|d:\\projects\\exammanagement\\exam.application\\services\\studentexammanager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{85F7E370-E994-4DA5-8295-2D83CA53C66B}|Exam.Application\\Exam.Application.csproj|solutionrelative:exam.application\\services\\studentexammanager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{85F7E370-E994-4DA5-8295-2D83CA53C66B}|Exam.Application\\Exam.Application.csproj|d:\\projects\\exammanagement\\exam.application\\services\\studentanswermanager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{85F7E370-E994-4DA5-8295-2D83CA53C66B}|Exam.Application\\Exam.Application.csproj|solutionrelative:exam.application\\services\\studentanswermanager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{85F7E370-E994-4DA5-8295-2D83CA53C66B}|Exam.Application\\Exam.Application.csproj|d:\\projects\\exammanagement\\exam.application\\services\\questionexammanager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{85F7E370-E994-4DA5-8295-2D83CA53C66B}|Exam.Application\\Exam.Application.csproj|solutionrelative:exam.application\\services\\questionexammanager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{85F7E370-E994-4DA5-8295-2D83CA53C66B}|Exam.Application\\Exam.Application.csproj|d:\\projects\\exammanagement\\exam.application\\services\\questionmanager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{85F7E370-E994-4DA5-8295-2D83CA53C66B}|Exam.Application\\Exam.Application.csproj|solutionrelative:exam.application\\services\\questionmanager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{85F7E370-E994-4DA5-8295-2D83CA53C66B}|Exam.Application\\Exam.Application.csproj|d:\\projects\\exammanagement\\exam.application\\services\\exammanager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{85F7E370-E994-4DA5-8295-2D83CA53C66B}|Exam.Application\\Exam.Application.csproj|solutionrelative:exam.application\\services\\exammanager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{85F7E370-E994-4DA5-8295-2D83CA53C66B}|Exam.Application\\Exam.Application.csproj|d:\\projects\\exammanagement\\exam.application\\services\\studentmanager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{85F7E370-E994-4DA5-8295-2D83CA53C66B}|Exam.Application\\Exam.Application.csproj|solutionrelative:exam.application\\services\\studentmanager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{85F7E370-E994-4DA5-8295-2D83CA53C66B}|Exam.Application\\Exam.Application.csproj|d:\\projects\\exammanagement\\exam.application\\interfaces\\icrudservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{85F7E370-E994-4DA5-8295-2D83CA53C66B}|Exam.Application\\Exam.Application.csproj|solutionrelative:exam.application\\interfaces\\icrudservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{85F7E370-E994-4DA5-8295-2D83CA53C66B}|Exam.Application\\Exam.Application.csproj|d:\\projects\\exammanagement\\exam.application\\dtos\\teacherdtos\\teacherdtos.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{85F7E370-E994-4DA5-8295-2D83CA53C66B}|Exam.Application\\Exam.Application.csproj|solutionrelative:exam.application\\dtos\\teacherdtos\\teacherdtos.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{85F7E370-E994-4DA5-8295-2D83CA53C66B}|Exam.Application\\Exam.Application.csproj|d:\\projects\\exammanagement\\exam.application\\interfaces\\istudentexamservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{85F7E370-E994-4DA5-8295-2D83CA53C66B}|Exam.Application\\Exam.Application.csproj|solutionrelative:exam.application\\interfaces\\istudentexamservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{85F7E370-E994-4DA5-8295-2D83CA53C66B}|Exam.Application\\Exam.Application.csproj|d:\\projects\\exammanagement\\exam.application\\dtos\\studentexamdtos\\studentexamdtos.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{85F7E370-E994-4DA5-8295-2D83CA53C66B}|Exam.Application\\Exam.Application.csproj|solutionrelative:exam.application\\dtos\\studentexamdtos\\studentexamdtos.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{85F7E370-E994-4DA5-8295-2D83CA53C66B}|Exam.Application\\Exam.Application.csproj|d:\\projects\\exammanagement\\exam.application\\interfaces\\istudentanswerservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{85F7E370-E994-4DA5-8295-2D83CA53C66B}|Exam.Application\\Exam.Application.csproj|solutionrelative:exam.application\\interfaces\\istudentanswerservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{85F7E370-E994-4DA5-8295-2D83CA53C66B}|Exam.Application\\Exam.Application.csproj|d:\\projects\\exammanagement\\exam.application\\dtos\\studentdtos\\studentdtos.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{85F7E370-E994-4DA5-8295-2D83CA53C66B}|Exam.Application\\Exam.Application.csproj|solutionrelative:exam.application\\dtos\\studentdtos\\studentdtos.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{85F7E370-E994-4DA5-8295-2D83CA53C66B}|Exam.Application\\Exam.Application.csproj|d:\\projects\\exammanagement\\exam.application\\interfaces\\iquestionexamservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{85F7E370-E994-4DA5-8295-2D83CA53C66B}|Exam.Application\\Exam.Application.csproj|solutionrelative:exam.application\\interfaces\\iquestionexamservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{85F7E370-E994-4DA5-8295-2D83CA53C66B}|Exam.Application\\Exam.Application.csproj|d:\\projects\\exammanagement\\exam.application\\dtos\\studentanswerdtos\\studentanswerdtos.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{85F7E370-E994-4DA5-8295-2D83CA53C66B}|Exam.Application\\Exam.Application.csproj|solutionrelative:exam.application\\dtos\\studentanswerdtos\\studentanswerdtos.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{85F7E370-E994-4DA5-8295-2D83CA53C66B}|Exam.Application\\Exam.Application.csproj|d:\\projects\\exammanagement\\exam.application\\interfaces\\iquestionservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{85F7E370-E994-4DA5-8295-2D83CA53C66B}|Exam.Application\\Exam.Application.csproj|solutionrelative:exam.application\\interfaces\\iquestionservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{85F7E370-E994-4DA5-8295-2D83CA53C66B}|Exam.Application\\Exam.Application.csproj|d:\\projects\\exammanagement\\exam.application\\dtos\\questionexamdtos\\questionexamdtos.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{85F7E370-E994-4DA5-8295-2D83CA53C66B}|Exam.Application\\Exam.Application.csproj|solutionrelative:exam.application\\dtos\\questionexamdtos\\questionexamdtos.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{85F7E370-E994-4DA5-8295-2D83CA53C66B}|Exam.Application\\Exam.Application.csproj|d:\\projects\\exammanagement\\exam.application\\interfaces\\iexamservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{85F7E370-E994-4DA5-8295-2D83CA53C66B}|Exam.Application\\Exam.Application.csproj|solutionrelative:exam.application\\interfaces\\iexamservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{85F7E370-E994-4DA5-8295-2D83CA53C66B}|Exam.Application\\Exam.Application.csproj|d:\\projects\\exammanagement\\exam.application\\dtos\\questiondtos\\questiondtos.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{85F7E370-E994-4DA5-8295-2D83CA53C66B}|Exam.Application\\Exam.Application.csproj|solutionrelative:exam.application\\dtos\\questiondtos\\questiondtos.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{DB496D23-BCC4-4C39-8483-C740E9573CAF}|Exam.Domain\\Exam.Domain.csproj|d:\\projects\\exammanagement\\exam.domain\\entites\\question.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{DB496D23-BCC4-4C39-8483-C740E9573CAF}|Exam.Domain\\Exam.Domain.csproj|solutionrelative:exam.domain\\entites\\question.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{85F7E370-E994-4DA5-8295-2D83CA53C66B}|Exam.Application\\Exam.Application.csproj|d:\\projects\\exammanagement\\exam.application\\dtos\\examdtos\\examdtos.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{85F7E370-E994-4DA5-8295-2D83CA53C66B}|Exam.Application\\Exam.Application.csproj|solutionrelative:exam.application\\dtos\\examdtos\\examdtos.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{85F7E370-E994-4DA5-8295-2D83CA53C66B}|Exam.Application\\Exam.Application.csproj|d:\\projects\\exammanagement\\exam.application\\dtos\\teacherdtos\\teacherdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{85F7E370-E994-4DA5-8295-2D83CA53C66B}|Exam.Application\\Exam.Application.csproj|solutionrelative:exam.application\\dtos\\teacherdtos\\teacherdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DB496D23-BCC4-4C39-8483-C740E9573CAF}|Exam.Domain\\Exam.Domain.csproj|d:\\projects\\exammanagement\\exam.domain\\entites\\teacher.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{DB496D23-BCC4-4C39-8483-C740E9573CAF}|Exam.Domain\\Exam.Domain.csproj|solutionrelative:exam.domain\\entites\\teacher.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{85F7E370-E994-4DA5-8295-2D83CA53C66B}|Exam.Application\\Exam.Application.csproj|d:\\projects\\exammanagement\\exam.application\\dtos\\studentanswerdtos\\studentanswerdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{85F7E370-E994-4DA5-8295-2D83CA53C66B}|Exam.Application\\Exam.Application.csproj|solutionrelative:exam.application\\dtos\\studentanswerdtos\\studentanswerdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{85F7E370-E994-4DA5-8295-2D83CA53C66B}|Exam.Application\\Exam.Application.csproj|d:\\projects\\exammanagement\\exam.application\\dtos\\studentanswerdtos\\studentanswercreatedto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{85F7E370-E994-4DA5-8295-2D83CA53C66B}|Exam.Application\\Exam.Application.csproj|solutionrelative:exam.application\\dtos\\studentanswerdtos\\studentanswercreatedto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DB496D23-BCC4-4C39-8483-C740E9573CAF}|Exam.Domain\\Exam.Domain.csproj|d:\\projects\\exammanagement\\exam.domain\\entites\\studentanswer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{DB496D23-BCC4-4C39-8483-C740E9573CAF}|Exam.Domain\\Exam.Domain.csproj|solutionrelative:exam.domain\\entites\\studentanswer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{85F7E370-E994-4DA5-8295-2D83CA53C66B}|Exam.Application\\Exam.Application.csproj|d:\\projects\\exammanagement\\exam.application\\dtos\\studentexamdtos\\studentexamdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{85F7E370-E994-4DA5-8295-2D83CA53C66B}|Exam.Application\\Exam.Application.csproj|solutionrelative:exam.application\\dtos\\studentexamdtos\\studentexamdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DB496D23-BCC4-4C39-8483-C740E9573CAF}|Exam.Domain\\Exam.Domain.csproj|d:\\projects\\exammanagement\\exam.domain\\entites\\studentexam.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{DB496D23-BCC4-4C39-8483-C740E9573CAF}|Exam.Domain\\Exam.Domain.csproj|solutionrelative:exam.domain\\entites\\studentexam.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{85F7E370-E994-4DA5-8295-2D83CA53C66B}|Exam.Application\\Exam.Application.csproj|d:\\projects\\exammanagement\\exam.application\\dtos\\questionexamdtos\\questionexamdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{85F7E370-E994-4DA5-8295-2D83CA53C66B}|Exam.Application\\Exam.Application.csproj|solutionrelative:exam.application\\dtos\\questionexamdtos\\questionexamdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DB496D23-BCC4-4C39-8483-C740E9573CAF}|Exam.Domain\\Exam.Domain.csproj|d:\\projects\\exammanagement\\exam.domain\\entites\\questionexam.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{DB496D23-BCC4-4C39-8483-C740E9573CAF}|Exam.Domain\\Exam.Domain.csproj|solutionrelative:exam.domain\\entites\\questionexam.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{85F7E370-E994-4DA5-8295-2D83CA53C66B}|Exam.Application\\Exam.Application.csproj|d:\\projects\\exammanagement\\exam.application\\dtos\\questiondtos\\questiondto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{85F7E370-E994-4DA5-8295-2D83CA53C66B}|Exam.Application\\Exam.Application.csproj|solutionrelative:exam.application\\dtos\\questiondtos\\questiondto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{85F7E370-E994-4DA5-8295-2D83CA53C66B}|Exam.Application\\Exam.Application.csproj|d:\\projects\\exammanagement\\exam.application\\dtos\\examdtos\\examdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{85F7E370-E994-4DA5-8295-2D83CA53C66B}|Exam.Application\\Exam.Application.csproj|solutionrelative:exam.application\\dtos\\examdtos\\examdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{85F7E370-E994-4DA5-8295-2D83CA53C66B}|Exam.Application\\Exam.Application.csproj|d:\\projects\\exammanagement\\exam.application\\dtos\\examdtos\\examcreatedto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{85F7E370-E994-4DA5-8295-2D83CA53C66B}|Exam.Application\\Exam.Application.csproj|solutionrelative:exam.application\\dtos\\examdtos\\examcreatedto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{85F7E370-E994-4DA5-8295-2D83CA53C66B}|Exam.Application\\Exam.Application.csproj|d:\\projects\\exammanagement\\exam.application\\dtos\\examdtos\\examupdatedto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{85F7E370-E994-4DA5-8295-2D83CA53C66B}|Exam.Application\\Exam.Application.csproj|solutionrelative:exam.application\\dtos\\examdtos\\examupdatedto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DB496D23-BCC4-4C39-8483-C740E9573CAF}|Exam.Domain\\Exam.Domain.csproj|d:\\projects\\exammanagement\\exam.domain\\entites\\examm.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{DB496D23-BCC4-4C39-8483-C740E9573CAF}|Exam.Domain\\Exam.Domain.csproj|solutionrelative:exam.domain\\entites\\examm.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{85F7E370-E994-4DA5-8295-2D83CA53C66B}|Exam.Application\\Exam.Application.csproj|d:\\projects\\exammanagement\\exam.application\\dtos\\studentdtos\\studentdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{85F7E370-E994-4DA5-8295-2D83CA53C66B}|Exam.Application\\Exam.Application.csproj|solutionrelative:exam.application\\dtos\\studentdtos\\studentdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{85F7E370-E994-4DA5-8295-2D83CA53C66B}|Exam.Application\\Exam.Application.csproj|d:\\projects\\exammanagement\\exam.application\\services\\crudmanager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{85F7E370-E994-4DA5-8295-2D83CA53C66B}|Exam.Application\\Exam.Application.csproj|solutionrelative:exam.application\\services\\crudmanager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{85F7E370-E994-4DA5-8295-2D83CA53C66B}|Exam.Application\\Exam.Application.csproj|d:\\projects\\exammanagement\\exam.application\\automapping\\mappingprofile.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{85F7E370-E994-4DA5-8295-2D83CA53C66B}|Exam.Application\\Exam.Application.csproj|solutionrelative:exam.application\\automapping\\mappingprofile.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DB496D23-BCC4-4C39-8483-C740E9573CAF}|Exam.Domain\\Exam.Domain.csproj|d:\\projects\\exammanagement\\exam.domain\\entites\\student.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{DB496D23-BCC4-4C39-8483-C740E9573CAF}|Exam.Domain\\Exam.Domain.csproj|solutionrelative:exam.domain\\entites\\student.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
   "DocumentGroupContainers": [
@@ -50,7 +146,7 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 2,
+          "SelectedChildIndex": 3,
           "Children": [
             {
               "$type": "Bookmark",
@@ -62,130 +158,442 @@
             },
             {
               "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "ITeacherService.cs",
+              "DocumentMoniker": "D:\\PROJECTS\\ExamManagement\\Exam.Application\\Interfaces\\ITeacherService.cs",
+              "RelativeDocumentMoniker": "Exam.Application\\Interfaces\\ITeacherService.cs",
+              "ToolTip": "D:\\PROJECTS\\ExamManagement\\Exam.Application\\Interfaces\\ITeacherService.cs",
+              "RelativeToolTip": "Exam.Application\\Interfaces\\ITeacherService.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAUAAABmAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-03T17:44:49.5Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
               "DocumentIndex": 0,
+              "Title": "TeacherManager.cs",
+              "DocumentMoniker": "D:\\PROJECTS\\ExamManagement\\Exam.Application\\Services\\TeacherManager.cs",
+              "RelativeDocumentMoniker": "Exam.Application\\Services\\TeacherManager.cs",
+              "ToolTip": "D:\\PROJECTS\\ExamManagement\\Exam.Application\\Services\\TeacherManager.cs",
+              "RelativeToolTip": "Exam.Application\\Services\\TeacherManager.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAYAAABxAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-03T17:43:40.253Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "StudentExamManager.cs",
+              "DocumentMoniker": "D:\\PROJECTS\\ExamManagement\\Exam.Application\\Services\\StudentExamManager.cs",
+              "RelativeDocumentMoniker": "Exam.Application\\Services\\StudentExamManager.cs",
+              "ToolTip": "D:\\PROJECTS\\ExamManagement\\Exam.Application\\Services\\StudentExamManager.cs",
+              "RelativeToolTip": "Exam.Application\\Services\\StudentExamManager.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAYAAACJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-03T17:33:31.346Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "StudentAnswerManager.cs",
+              "DocumentMoniker": "D:\\PROJECTS\\ExamManagement\\Exam.Application\\Services\\StudentAnswerManager.cs",
+              "RelativeDocumentMoniker": "Exam.Application\\Services\\StudentAnswerManager.cs",
+              "ToolTip": "D:\\PROJECTS\\ExamManagement\\Exam.Application\\Services\\StudentAnswerManager.cs",
+              "RelativeToolTip": "Exam.Application\\Services\\StudentAnswerManager.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAYAAACVAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-03T17:32:31.498Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "QuestionExamManager.cs",
+              "DocumentMoniker": "D:\\PROJECTS\\ExamManagement\\Exam.Application\\Services\\QuestionExamManager.cs",
+              "RelativeDocumentMoniker": "Exam.Application\\Services\\QuestionExamManager.cs",
+              "ToolTip": "D:\\PROJECTS\\ExamManagement\\Exam.Application\\Services\\QuestionExamManager.cs",
+              "RelativeToolTip": "Exam.Application\\Services\\QuestionExamManager.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAYAAACPAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-03T17:31:06.82Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "QuestionManager.cs",
+              "DocumentMoniker": "D:\\PROJECTS\\ExamManagement\\Exam.Application\\Services\\QuestionManager.cs",
+              "RelativeDocumentMoniker": "Exam.Application\\Services\\QuestionManager.cs",
+              "ToolTip": "D:\\PROJECTS\\ExamManagement\\Exam.Application\\Services\\QuestionManager.cs",
+              "RelativeToolTip": "Exam.Application\\Services\\QuestionManager.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAYAAAB3AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-03T17:30:12.588Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "ExamManager.cs",
+              "DocumentMoniker": "D:\\PROJECTS\\ExamManagement\\Exam.Application\\Services\\ExamManager.cs",
+              "RelativeDocumentMoniker": "Exam.Application\\Services\\ExamManager.cs",
+              "ToolTip": "D:\\PROJECTS\\ExamManagement\\Exam.Application\\Services\\ExamManager.cs",
+              "RelativeToolTip": "Exam.Application\\Services\\ExamManager.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAYAAABgAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-03T17:29:11.057Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "IStudentExamService.cs",
+              "DocumentMoniker": "D:\\PROJECTS\\ExamManagement\\Exam.Application\\Interfaces\\IStudentExamService.cs",
+              "RelativeDocumentMoniker": "Exam.Application\\Interfaces\\IStudentExamService.cs",
+              "ToolTip": "D:\\PROJECTS\\ExamManagement\\Exam.Application\\Interfaces\\IStudentExamService.cs",
+              "RelativeToolTip": "Exam.Application\\Interfaces\\IStudentExamService.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-03T17:27:40.559Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "IStudentAnswerService.cs",
+              "DocumentMoniker": "D:\\PROJECTS\\ExamManagement\\Exam.Application\\Interfaces\\IStudentAnswerService.cs",
+              "RelativeDocumentMoniker": "Exam.Application\\Interfaces\\IStudentAnswerService.cs",
+              "ToolTip": "D:\\PROJECTS\\ExamManagement\\Exam.Application\\Interfaces\\IStudentAnswerService.cs",
+              "RelativeToolTip": "Exam.Application\\Interfaces\\IStudentAnswerService.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAQAAACEAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-03T17:26:26.557Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "IQuestionExamService.cs",
+              "DocumentMoniker": "D:\\PROJECTS\\ExamManagement\\Exam.Application\\Interfaces\\IQuestionExamService.cs",
+              "RelativeDocumentMoniker": "Exam.Application\\Interfaces\\IQuestionExamService.cs",
+              "ToolTip": "D:\\PROJECTS\\ExamManagement\\Exam.Application\\Interfaces\\IQuestionExamService.cs",
+              "RelativeToolTip": "Exam.Application\\Interfaces\\IQuestionExamService.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAQAAAB/AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-03T17:25:15.625Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "IQuestionService.cs",
+              "DocumentMoniker": "D:\\PROJECTS\\ExamManagement\\Exam.Application\\Interfaces\\IQuestionService.cs",
+              "RelativeDocumentMoniker": "Exam.Application\\Interfaces\\IQuestionService.cs",
+              "ToolTip": "D:\\PROJECTS\\ExamManagement\\Exam.Application\\Interfaces\\IQuestionService.cs",
+              "RelativeToolTip": "Exam.Application\\Interfaces\\IQuestionService.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-03T17:23:39.413Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 19,
+              "Title": "StudentAnswerCreateDTO.cs",
+              "DocumentMoniker": "D:\\PROJECTS\\ExamManagement\\Exam.Application\\DTOs\\StudentAnswerDTOs\\StudentAnswerCreateDTO.cs",
+              "RelativeDocumentMoniker": "Exam.Application\\DTOs\\StudentAnswerDTOs\\StudentAnswerCreateDTO.cs",
+              "ToolTip": "D:\\PROJECTS\\ExamManagement\\Exam.Application\\DTOs\\StudentAnswerDTOs\\StudentAnswerCreateDTO.cs",
+              "RelativeToolTip": "Exam.Application\\DTOs\\StudentAnswerDTOs\\StudentAnswerCreateDTO.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-03T17:20:22.123Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 22,
+              "Title": "StudentExam.cs",
+              "DocumentMoniker": "D:\\PROJECTS\\ExamManagement\\Exam.Domain\\Entites\\StudentExam.cs",
+              "RelativeDocumentMoniker": "Exam.Domain\\Entites\\StudentExam.cs",
+              "ToolTip": "D:\\PROJECTS\\ExamManagement\\Exam.Domain\\Entites\\StudentExam.cs",
+              "RelativeToolTip": "Exam.Domain\\Entites\\StudentExam.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAABTAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-03T17:13:24.481Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 20,
+              "Title": "StudentAnswer.cs",
+              "DocumentMoniker": "D:\\PROJECTS\\ExamManagement\\Exam.Domain\\Entites\\StudentAnswer.cs",
+              "RelativeDocumentMoniker": "Exam.Domain\\Entites\\StudentAnswer.cs",
+              "ToolTip": "D:\\PROJECTS\\ExamManagement\\Exam.Domain\\Entites\\StudentAnswer.cs",
+              "RelativeToolTip": "Exam.Domain\\Entites\\StudentAnswer.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAYAAAAvAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-03T17:12:46.501Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 24,
+              "Title": "QuestionExam.cs",
+              "DocumentMoniker": "D:\\PROJECTS\\ExamManagement\\Exam.Domain\\Entites\\QuestionExam.cs",
+              "RelativeDocumentMoniker": "Exam.Domain\\Entites\\QuestionExam.cs",
+              "ToolTip": "D:\\PROJECTS\\ExamManagement\\Exam.Domain\\Entites\\QuestionExam.cs",
+              "RelativeToolTip": "Exam.Domain\\Entites\\QuestionExam.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAQAAAACAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-03T17:11:04.343Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 28,
+              "Title": "ExamUpdateDTO.cs",
+              "DocumentMoniker": "D:\\PROJECTS\\ExamManagement\\Exam.Application\\DTOs\\ExamDTOS\\ExamUpdateDTO.cs",
+              "RelativeDocumentMoniker": "Exam.Application\\DTOs\\ExamDTOS\\ExamUpdateDTO.cs",
+              "ToolTip": "D:\\PROJECTS\\ExamManagement\\Exam.Application\\DTOs\\ExamDTOS\\ExamUpdateDTO.cs",
+              "RelativeToolTip": "Exam.Application\\DTOs\\ExamDTOS\\ExamUpdateDTO.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-03T17:08:49.749Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 27,
+              "Title": "ExamCreateDTO.cs",
+              "DocumentMoniker": "D:\\PROJECTS\\ExamManagement\\Exam.Application\\DTOs\\ExamDTOS\\ExamCreateDTO.cs",
+              "RelativeDocumentMoniker": "Exam.Application\\DTOs\\ExamDTOS\\ExamCreateDTO.cs",
+              "ToolTip": "D:\\PROJECTS\\ExamManagement\\Exam.Application\\DTOs\\ExamDTOS\\ExamCreateDTO.cs",
+              "RelativeToolTip": "Exam.Application\\DTOs\\ExamDTOS\\ExamCreateDTO.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-03T17:06:43.58Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "StudentManager.cs",
+              "DocumentMoniker": "D:\\PROJECTS\\ExamManagement\\Exam.Application\\Services\\StudentManager.cs",
+              "RelativeDocumentMoniker": "Exam.Application\\Services\\StudentManager.cs",
+              "ToolTip": "D:\\PROJECTS\\ExamManagement\\Exam.Application\\Services\\StudentManager.cs",
+              "RelativeToolTip": "Exam.Application\\Services\\StudentManager.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-03T17:00:25.872Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 31,
+              "Title": "CrudManager.cs",
+              "DocumentMoniker": "D:\\PROJECTS\\ExamManagement\\Exam.Application\\Services\\CrudManager.cs",
+              "RelativeDocumentMoniker": "Exam.Application\\Services\\CrudManager.cs",
+              "ToolTip": "D:\\PROJECTS\\ExamManagement\\Exam.Application\\Services\\CrudManager.cs",
+              "RelativeToolTip": "Exam.Application\\Services\\CrudManager.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA8AAAAqAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-03T16:18:29.747Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "IStudentService.cs",
+              "DocumentMoniker": "D:\\PROJECTS\\ExamManagement\\Exam.Application\\Interfaces\\IStudentService.cs",
+              "RelativeDocumentMoniker": "Exam.Application\\Interfaces\\IStudentService.cs",
+              "ToolTip": "D:\\PROJECTS\\ExamManagement\\Exam.Application\\Interfaces\\IStudentService.cs",
+              "RelativeToolTip": "Exam.Application\\Interfaces\\IStudentService.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAEAAAAaAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-03T16:13:52.226Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 15,
+              "Title": "Question.cs",
+              "DocumentMoniker": "D:\\PROJECTS\\ExamManagement\\Exam.Domain\\Entites\\Question.cs",
+              "RelativeDocumentMoniker": "Exam.Domain\\Entites\\Question.cs",
+              "ToolTip": "D:\\PROJECTS\\ExamManagement\\Exam.Domain\\Entites\\Question.cs",
+              "RelativeToolTip": "Exam.Domain\\Entites\\Question.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAALAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-03T16:01:27.435Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 29,
+              "Title": "Examm.cs",
+              "DocumentMoniker": "D:\\PROJECTS\\ExamManagement\\Exam.Domain\\Entites\\Examm.cs",
+              "RelativeDocumentMoniker": "Exam.Domain\\Entites\\Examm.cs",
+              "ToolTip": "D:\\PROJECTS\\ExamManagement\\Exam.Domain\\Entites\\Examm.cs",
+              "RelativeToolTip": "Exam.Domain\\Entites\\Examm.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAABAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-03T16:01:25.735Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 17,
+              "Title": "Teacher.cs",
+              "DocumentMoniker": "D:\\PROJECTS\\ExamManagement\\Exam.Domain\\Entites\\Teacher.cs",
+              "RelativeDocumentMoniker": "Exam.Domain\\Entites\\Teacher.cs",
+              "ToolTip": "D:\\PROJECTS\\ExamManagement\\Exam.Domain\\Entites\\Teacher.cs",
+              "RelativeToolTip": "Exam.Domain\\Entites\\Teacher.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-03T16:01:21.533Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 33,
+              "Title": "Student.cs",
+              "DocumentMoniker": "D:\\PROJECTS\\ExamManagement\\Exam.Domain\\Entites\\Student.cs",
+              "RelativeDocumentMoniker": "Exam.Domain\\Entites\\Student.cs",
+              "ToolTip": "D:\\PROJECTS\\ExamManagement\\Exam.Domain\\Entites\\Student.cs",
+              "RelativeToolTip": "Exam.Domain\\Entites\\Student.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAYAAABAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-03T16:01:18.882Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 32,
               "Title": "MappingProfile.cs",
               "DocumentMoniker": "D:\\PROJECTS\\ExamManagement\\Exam.Application\\AutoMapping\\MappingProfile.cs",
               "RelativeDocumentMoniker": "Exam.Application\\AutoMapping\\MappingProfile.cs",
               "ToolTip": "D:\\PROJECTS\\ExamManagement\\Exam.Application\\AutoMapping\\MappingProfile.cs",
               "RelativeToolTip": "Exam.Application\\AutoMapping\\MappingProfile.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAcAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2025-05-03T15:55:08.969Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 1,
+              "DocumentIndex": 14,
               "Title": "IExamService.cs",
               "DocumentMoniker": "D:\\PROJECTS\\ExamManagement\\Exam.Application\\Interfaces\\IExamService.cs",
               "RelativeDocumentMoniker": "Exam.Application\\Interfaces\\IExamService.cs",
               "ToolTip": "D:\\PROJECTS\\ExamManagement\\Exam.Application\\Interfaces\\IExamService.cs",
               "RelativeToolTip": "Exam.Application\\Interfaces\\IExamService.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAEAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2025-05-03T15:54:23.87Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 2,
+              "DocumentIndex": 9,
               "Title": "ICrudService.cs",
               "DocumentMoniker": "D:\\PROJECTS\\ExamManagement\\Exam.Application\\Interfaces\\ICrudService.cs",
               "RelativeDocumentMoniker": "Exam.Application\\Interfaces\\ICrudService.cs",
               "ToolTip": "D:\\PROJECTS\\ExamManagement\\Exam.Application\\Interfaces\\ICrudService.cs",
               "RelativeToolTip": "Exam.Application\\Interfaces\\ICrudService.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAIAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2025-05-03T15:53:55.889Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 3,
-              "Title": "TeacherDTOs.cs",
-              "DocumentMoniker": "D:\\PROJECTS\\ExamManagement\\Exam.Application\\DTOs\\TeacherDTOs\\TeacherDTOs.cs",
-              "RelativeDocumentMoniker": "Exam.Application\\DTOs\\TeacherDTOs\\TeacherDTOs.cs",
-              "ToolTip": "D:\\PROJECTS\\ExamManagement\\Exam.Application\\DTOs\\TeacherDTOs\\TeacherDTOs.cs",
-              "RelativeToolTip": "Exam.Application\\DTOs\\TeacherDTOs\\TeacherDTOs.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "DocumentIndex": 16,
+              "Title": "TeacherDTO.cs",
+              "DocumentMoniker": "D:\\PROJECTS\\ExamManagement\\Exam.Application\\DTOs\\TeacherDTOs\\TeacherDTO.cs",
+              "RelativeDocumentMoniker": "Exam.Application\\DTOs\\TeacherDTOs\\TeacherDTO.cs",
+              "ToolTip": "D:\\PROJECTS\\ExamManagement\\Exam.Application\\DTOs\\TeacherDTOs\\TeacherDTO.cs",
+              "RelativeToolTip": "Exam.Application\\DTOs\\TeacherDTOs\\TeacherDTO.cs",
+              "ViewState": "AgIAAAMAAAAAAAAAAAAAAA4AAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2025-05-03T15:53:07.645Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 4,
-              "Title": "StudentExamDTOs.cs",
-              "DocumentMoniker": "D:\\PROJECTS\\ExamManagement\\Exam.Application\\DTOs\\StudentExamDTOs\\StudentExamDTOs.cs",
-              "RelativeDocumentMoniker": "Exam.Application\\DTOs\\StudentExamDTOs\\StudentExamDTOs.cs",
-              "ToolTip": "D:\\PROJECTS\\ExamManagement\\Exam.Application\\DTOs\\StudentExamDTOs\\StudentExamDTOs.cs",
-              "RelativeToolTip": "Exam.Application\\DTOs\\StudentExamDTOs\\StudentExamDTOs.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "DocumentIndex": 21,
+              "Title": "StudentExamDTO.cs",
+              "DocumentMoniker": "D:\\PROJECTS\\ExamManagement\\Exam.Application\\DTOs\\StudentExamDTOs\\StudentExamDTO.cs",
+              "RelativeDocumentMoniker": "Exam.Application\\DTOs\\StudentExamDTOs\\StudentExamDTO.cs",
+              "ToolTip": "D:\\PROJECTS\\ExamManagement\\Exam.Application\\DTOs\\StudentExamDTOs\\StudentExamDTO.cs",
+              "RelativeToolTip": "Exam.Application\\DTOs\\StudentExamDTOs\\StudentExamDTO.cs",
+              "ViewState": "AgIAAAMAAAAAAAAAAAAAABAAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2025-05-03T15:52:57.977Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 5,
-              "Title": "StudentDTOs.cs",
-              "DocumentMoniker": "D:\\PROJECTS\\ExamManagement\\Exam.Application\\DTOs\\StudentDTOs\\StudentDTOs.cs",
-              "RelativeDocumentMoniker": "Exam.Application\\DTOs\\StudentDTOs\\StudentDTOs.cs",
-              "ToolTip": "D:\\PROJECTS\\ExamManagement\\Exam.Application\\DTOs\\StudentDTOs\\StudentDTOs.cs",
-              "RelativeToolTip": "Exam.Application\\DTOs\\StudentDTOs\\StudentDTOs.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "DocumentIndex": 30,
+              "Title": "StudentDTO.cs",
+              "DocumentMoniker": "D:\\PROJECTS\\ExamManagement\\Exam.Application\\DTOs\\StudentDTOs\\StudentDTO.cs",
+              "RelativeDocumentMoniker": "Exam.Application\\DTOs\\StudentDTOs\\StudentDTO.cs",
+              "ToolTip": "D:\\PROJECTS\\ExamManagement\\Exam.Application\\DTOs\\StudentDTOs\\StudentDTO.cs",
+              "RelativeToolTip": "Exam.Application\\DTOs\\StudentDTOs\\StudentDTO.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2025-05-03T15:52:36.529Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 6,
-              "Title": "StudentAnswerDTOs.cs",
-              "DocumentMoniker": "D:\\PROJECTS\\ExamManagement\\Exam.Application\\DTOs\\StudentAnswerDTOs\\StudentAnswerDTOs.cs",
-              "RelativeDocumentMoniker": "Exam.Application\\DTOs\\StudentAnswerDTOs\\StudentAnswerDTOs.cs",
-              "ToolTip": "D:\\PROJECTS\\ExamManagement\\Exam.Application\\DTOs\\StudentAnswerDTOs\\StudentAnswerDTOs.cs",
-              "RelativeToolTip": "Exam.Application\\DTOs\\StudentAnswerDTOs\\StudentAnswerDTOs.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "DocumentIndex": 18,
+              "Title": "StudentAnswerDTO.cs",
+              "DocumentMoniker": "D:\\PROJECTS\\ExamManagement\\Exam.Application\\DTOs\\StudentAnswerDTOs\\StudentAnswerDTO.cs",
+              "RelativeDocumentMoniker": "Exam.Application\\DTOs\\StudentAnswerDTOs\\StudentAnswerDTO.cs",
+              "ToolTip": "D:\\PROJECTS\\ExamManagement\\Exam.Application\\DTOs\\StudentAnswerDTOs\\StudentAnswerDTO.cs",
+              "RelativeToolTip": "Exam.Application\\DTOs\\StudentAnswerDTOs\\StudentAnswerDTO.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2025-05-03T15:52:27.38Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 7,
-              "Title": "QuestionExamDTOs.cs",
-              "DocumentMoniker": "D:\\PROJECTS\\ExamManagement\\Exam.Application\\DTOs\\QuestionExamDTOs\\QuestionExamDTOs.cs",
-              "RelativeDocumentMoniker": "Exam.Application\\DTOs\\QuestionExamDTOs\\QuestionExamDTOs.cs",
-              "ToolTip": "D:\\PROJECTS\\ExamManagement\\Exam.Application\\DTOs\\QuestionExamDTOs\\QuestionExamDTOs.cs",
-              "RelativeToolTip": "Exam.Application\\DTOs\\QuestionExamDTOs\\QuestionExamDTOs.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "DocumentIndex": 23,
+              "Title": "QuestionExamDTO.cs",
+              "DocumentMoniker": "D:\\PROJECTS\\ExamManagement\\Exam.Application\\DTOs\\QuestionExamDTOs\\QuestionExamDTO.cs",
+              "RelativeDocumentMoniker": "Exam.Application\\DTOs\\QuestionExamDTOs\\QuestionExamDTO.cs",
+              "ToolTip": "D:\\PROJECTS\\ExamManagement\\Exam.Application\\DTOs\\QuestionExamDTOs\\QuestionExamDTO.cs",
+              "RelativeToolTip": "Exam.Application\\DTOs\\QuestionExamDTOs\\QuestionExamDTO.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA0AAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2025-05-03T15:52:17.427Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 8,
-              "Title": "QuestionDTOs.cs",
-              "DocumentMoniker": "D:\\PROJECTS\\ExamManagement\\Exam.Application\\DTOs\\QuestionDTOs\\QuestionDTOs.cs",
-              "RelativeDocumentMoniker": "Exam.Application\\DTOs\\QuestionDTOs\\QuestionDTOs.cs",
-              "ToolTip": "D:\\PROJECTS\\ExamManagement\\Exam.Application\\DTOs\\QuestionDTOs\\QuestionDTOs.cs",
-              "RelativeToolTip": "Exam.Application\\DTOs\\QuestionDTOs\\QuestionDTOs.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "DocumentIndex": 25,
+              "Title": "QuestionDTO.cs",
+              "DocumentMoniker": "D:\\PROJECTS\\ExamManagement\\Exam.Application\\DTOs\\QuestionDTOs\\QuestionDTO.cs",
+              "RelativeDocumentMoniker": "Exam.Application\\DTOs\\QuestionDTOs\\QuestionDTO.cs",
+              "ToolTip": "D:\\PROJECTS\\ExamManagement\\Exam.Application\\DTOs\\QuestionDTOs\\QuestionDTO.cs",
+              "RelativeToolTip": "Exam.Application\\DTOs\\QuestionDTOs\\QuestionDTO.cs",
+              "ViewState": "AgIAAAwAAAAAAAAAAAAYwB0AAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2025-05-03T15:52:06.159Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 9,
-              "Title": "ExamDTOS.cs",
-              "DocumentMoniker": "D:\\PROJECTS\\ExamManagement\\Exam.Application\\DTOs\\ExamDTOS\\ExamDTOS.cs",
-              "RelativeDocumentMoniker": "Exam.Application\\DTOs\\ExamDTOS\\ExamDTOS.cs",
-              "ToolTip": "D:\\PROJECTS\\ExamManagement\\Exam.Application\\DTOs\\ExamDTOS\\ExamDTOS.cs",
-              "RelativeToolTip": "Exam.Application\\DTOs\\ExamDTOS\\ExamDTOS.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "DocumentIndex": 26,
+              "Title": "ExamDTO.cs",
+              "DocumentMoniker": "D:\\PROJECTS\\ExamManagement\\Exam.Application\\DTOs\\ExamDTOS\\ExamDTO.cs",
+              "RelativeDocumentMoniker": "Exam.Application\\DTOs\\ExamDTOS\\ExamDTO.cs",
+              "ToolTip": "D:\\PROJECTS\\ExamManagement\\Exam.Application\\DTOs\\ExamDTOS\\ExamDTO.cs",
+              "RelativeToolTip": "Exam.Application\\DTOs\\ExamDTOS\\ExamDTO.cs",
+              "ViewState": "AgIAAAMAAAAAAAAAAAAAAA8AAAAFAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2025-05-03T15:51:19.942Z",
               "EditorCaption": ""

@@ -1,12 +1,10 @@
-﻿using System;
-using System.Collections.Generic;
-using System.Linq;
-using System.Text;
-using System.Threading.Tasks;
+﻿using Exam.Application.DTOs.ExamDTOS;
+using Exam.Domain.Entites;
 
 namespace Exam.Application.Interfaces
 {
-    internal interface IExamService
+    public interface IExamService:ICrudService<Examm,ExamDTO,ExamCreateDTO,ExamUpdateDTO>
     {
     }
+   
 }
