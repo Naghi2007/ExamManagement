@@ -17,7 +17,7 @@ namespace Exam.Infrastructure.EfCore.DataContext
 
         protected override void OnConfiguring(DbContextOptionsBuilder optionsBuilder)
         {
-            optionsBuilder.UseSqlServer("Server=.\\MSSQLSERVER01;Database=Examtest1;Trusted_Connection=true;TrustServerCertificate=true");
+            optionsBuilder.UseSqlServer("Server=.\\MSSQLSERVER01;Database=Examtest2;Trusted_Connection=true;TrustServerCertificate=true");
         }
 
     }

@@ -55,7 +55,7 @@ namespace Exam.Infrastructure.Migrations
                         .IsRequired()
                         .HasColumnType("nvarchar(max)");
 
-                    b.Property<string>("Options")
+                    b.Property<string>("ObjectJson")
                         .IsRequired()
                         .HasColumnType("nvarchar(max)");
 
@@ -121,6 +121,7 @@ namespace Exam.Infrastructure.Migrations
                     SqlServerPropertyBuilderExtensions.UseIdentityColumn(b.Property<int>("Id"));
 
                     b.Property<string>("Answer")
+                        .IsRequired()
                         .HasColumnType("nvarchar(max)");
 
                     b.Property<int>("StudentExamId")
